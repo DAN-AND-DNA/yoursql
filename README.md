@@ -1,6 +1,9 @@
 # yoursql
-mock db for Benchmark
+mock db for benchmark
 主要为了压力测试使用，避免网络的影响
+
+## example
+faker_db_test.go
 
 ## 基准
 raw query and grom query
